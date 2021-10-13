@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021155553382",
+    "firebase_url": "https://bndr-b44cd-default-rtdb.firebaseio.com",
+    "project_id": "bndr-b44cd",
+    "storage_bucket": "bndr-b44cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021155553382:android:8115658bb9886c78f1fda7",
+        "android_client_info": {
+          "package_name": "com.example.ndc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021155553382-90k97mnu9mdpa67ko4iq4k1t2toarr6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9TmFq3mo_rZcjzIT5XuUE2FYXnq4Cds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021155553382-90k97mnu9mdpa67ko4iq4k1t2toarr6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
